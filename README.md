@@ -1,5 +1,5 @@
 ## Hi, I'm Thomas! :wave: 
-**I'm a fullstack developer, and when I don't work or code my main hobbies include music, books and video games.**
+**I'm a fullstack developer, and when I don't code my main hobbies include music, books and video games.**
 
 You can [find me on LinkedIn](https://www.linkedin.com/in/thomas-paysac-5a2713254/).
 
