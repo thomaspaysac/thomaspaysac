@@ -11,10 +11,7 @@ You can [find me on LinkedIn](https://www.linkedin.com/in/thomas-paysac-5a271325
 [![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,firebase,supabase)](https://skillicons.dev)
 
 
-### What I want to learn next:
-- TypeScript,
-- AngularJS,
-- Bootstrap.
+### Currently learning: TypeScript, Next.js
 
 
 ---
