@@ -19,7 +19,7 @@ You can [find me on LinkedIn](https://www.linkedin.com/in/thomas-paysac-5a271325
 
 ## Major projects
 
-### [Talkbook](https://talkbook-app.netlify.app/) - Social network
+### [Talkbook](https://talkbook-app.netlify.app/) - Social network /
 A social network website inspired by Facebook, with full mobile and desktop designs.
 
 **Tools used:**
@@ -31,7 +31,7 @@ A messaging app meant to look and act like Whatsapp, done during The Odin Projec
 **Tools used:**
 Express, React, MongoDB, Firebase Storage, Supabase Authentication
 
-### [Evaluate Your Sounds](https://rym-clone.web.app/) - A musical social network
+### [Evaluate Your Sounds](https://rym-clone.web.app/) - A musical social network / [repo](https://github.com/thomaspaysac/rateeverything)
 A copy of the [Rate Your Music](https://rateyourmusic.com/) website, done during The Odin Project curriculum. The challenge was to reproduce a full website as close as possible.
 
 **Tools used:**
