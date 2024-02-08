@@ -25,7 +25,7 @@ A social network website inspired by Facebook, with full mobile and desktop desi
 **Tools used:**
 Express, React, Supabase | [view repo](https://github.com/thomaspaysac/freebook)
 
-### [Textera](https://textera.netlify.app/) - Messaging app
+### [Textera](https://textera.netlify.app/) - Messaging progressive web app
 A messaging app meant to look and act like Whatsapp, done during The Odin Project Curriculum.
 
 **Tools used:**
