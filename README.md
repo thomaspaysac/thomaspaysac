@@ -23,22 +23,22 @@ You can [find me on LinkedIn](https://www.linkedin.com/in/thomas-paysac-5a271325
 A social network website inspired by Facebook, with full mobile and desktop designs.
 
 **Tools used:**
-Express, React, Supabase
+Express, React, Supabase | [view repo](https://github.com/thomaspaysac/freebook)
 
 ### [Textera](https://textera.netlify.app/) - Messaging app
 A messaging app meant to look and act like Whatsapp, done during The Odin Project Curriculum.
 
 **Tools used:**
-Express, React, MongoDB, Firebase Storage, Supabase Authentication
+Express, React, MongoDB, Firebase Storage, Supabase Authentication | [view repo](https://github.com/thomaspaysac/textera)
 
-### [Evaluate Your Sounds](https://rym-clone.web.app/) - A musical social network / [repo](https://github.com/thomaspaysac/rateeverything)
+### [Evaluate Your Sounds](https://rym-clone.web.app/) - A musical social network
 A copy of the [Rate Your Music](https://rateyourmusic.com/) website, done during The Odin Project curriculum. The challenge was to reproduce a full website as close as possible.
 
 **Tools used:**
-React, Firebase, Webpack
+React, Firebase, Webpack | [view repo](https://github.com/thomaspaysac/rateeverything)
 
 ### [toodoo.](https://toodoo-81e7d.web.app/) - The todo list web app
 A to-do list app that fits my need, created during The Odin Project Curriculum. 
 
 **Tools used:**
-JavaScript, Firebase, Webpack
+JavaScript, Firebase, Webpack | [view repo](https://github.com/thomaspaysac/todo-app)
