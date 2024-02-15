@@ -8,7 +8,7 @@ You can [find me on LinkedIn](https://www.linkedin.com/in/thomas-paysac-5a271325
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,md)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,supabase)](https://skillicons.dev)
 
 
 ### Currently learning: TypeScript
